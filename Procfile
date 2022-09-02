@@ -1,1 +1,1 @@
-web: gunicorn appnyashayna.wsgi --log-file -
+web: gunicorn shaynasapp.wsgi --log-file -

@@ -1,0 +1,1 @@
+web: gunicorn appnyashayna.wsgi --log-file -
